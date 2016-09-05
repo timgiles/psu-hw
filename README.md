@@ -30,7 +30,7 @@ This is repository for the hardware part of the DIY fully programmable dual chan
 - USB support that can be used for remote control, as a debug console and firmware upload
 - Ethernet support for remote control
 - Local control using TFT touch-screen display
-- Usage of easy to find components that could be obtain with just single order from suppliers such as Farnell element14 or Transfer Multisort Elektronik (TMU.eu)
+- Usage of easy to find components that could be obtain with just single order from suppliers such as Farnell element14 or Transfer Multisort Elektronik (TME.eu)
 - Possibility to house at least dual channel version in affordable and compact (2U height) metallic enclosure
 - Comprehensive software support that include [SCPI](http://www.envox.hr/eez/bench-power-supply/psu-scpi-reference-manual/psu-scpi-introduction.html)  remote control, GUI configuration and monitoring and even multi-platform (Windows, Linux, OS X) software simulator of the firmware functionality
 
